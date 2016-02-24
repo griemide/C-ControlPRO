@@ -1,2 +1,2 @@
 # C-ControlPRO
-projects using C-Control PRO platform
+Projects using C-Control PRO platform
