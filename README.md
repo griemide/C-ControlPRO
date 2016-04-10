@@ -7,7 +7,7 @@ Projects using C-Control PRO platform - Link: [Conrad C-Control family](https://
 ![Mega 128 - Project Board](/images/C-ControlProProjectBoard.jpg)
 
 ###Project Board assembly
-![Mega 128 - Project Board assembly](/images/C-ControlProProjectBoardAssembly.gif)!
+![Mega 128 - Project Board assembly](/images/C-ControlProProjectBoardAssembly.gif)
 
 ###Project Board assembly
-[Mega 128 - Project Board schematics](/images/C-ControlProProjectBoardSchematics.gif)
+![Mega 128 - Project Board schematics](/images/C-ControlProProjectBoardSchematics.gif)
