@@ -2,4 +2,8 @@
 Projects using C-Control PRO platform
 
 
-![GitHub Logo](/images/C-ControlProMega128.jpg)![Mege 128](https://www.conrad.de/de/beratung/markenshops/c-control/c-control-pro.html)
+![Mega 128](/images/C-ControlProMega128.jpg)
+
+![Mega 128 - Project Board](/images/C-ControlProProjectBoard.jpg)
+
+![Mega 128 - Project Board assembly](/images/C-ControlProProjectBoardAssembly.gif)
